@@ -3,4 +3,4 @@
 /tailscale-cs
 configuracion.json
 tailscale_log.txt
-sel.pyc
+*.pyc
