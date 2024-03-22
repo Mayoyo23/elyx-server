@@ -1,0 +1,10 @@
+<h1>¡Servidor de Minecraft para GH Codespaces!</h1>
+<h3>¿Cómo usarlo?</h3>
+<ol>
+  <li>Hazle <strong>fork</strong> a este repositorio</li>
+  <li><a href="https://github.com/codespaces/new">Crea un nuevo codespace<a/> y en <strong>Repository</strong> seleccionas el repositorio al que hiciste fork.</li>
+  <li>En tus <a href="https://github.com/codespaces">codespaces</a> entras al recién creado</li>
+  <li>En la parte de <strong>Extensiones recomendadas</strong> instalas la extensión de <strong>Python</strong></li>
+  <li>Das click a <strong>servidor.py</strong> y lo ejecutas del botón de arriba a la derecha</li>
+  <li>Está todo listo, disfruta!</li>
+</ol>
