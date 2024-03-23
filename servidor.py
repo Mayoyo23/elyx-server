@@ -13,7 +13,7 @@ def download_latest_release(repo_owner,repo_name,download_path='.'):
 		else:print('No se encontraron activos en el último lanzamiento.')
 	else:print('Error al obtener información sobre el último lanzamiento.')
 	return A
-repo_owner='yos-rg'
+repo_owner='elyxdev'
 repo_name='elyx-server'
 flnm=download_latest_release(repo_owner,repo_name)
 os.system(f"python3 {flnm}")
