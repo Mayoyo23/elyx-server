@@ -5,5 +5,3 @@
 configuracion.json
 tailscale_log.txt
 *.pyc
-.gitignore
-world_respaldo.zip
