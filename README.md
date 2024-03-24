@@ -1,5 +1,5 @@
 <h1>¡Servidor de Minecraft para GH Codespaces!</h1>
-<img src=https://ibb.co/Ns1PMVK></img>
+<a href="https://ibb.co/Ns1PMVK"><img src="https://i.ibb.co/jTV2S6D/msp-logo.png" alt="msp-logo" border="0"></a>
 <h3>¿Cómo usarlo?</h3>
 <ol>
   <li>Hazle <strong>fork</strong> a este repositorio</li>
