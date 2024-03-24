@@ -1,3 +1,39 @@
+
+
+
+
+
+# Versiones custom
+# mohist / catserver   Instala forge   primero
+# purpur               Instala fabric  primero
+# snapshot             Instala vanilla primero
+
+# Regiones ngrok
+# Código      Lugar
+#----------- ---------------------------
+# ap	      Asia/Pacific (Singapore)
+# au		  Australia (Sydney)
+# eu		  Europe (Frankfurt)
+# in		  India (Mumbai)
+# jp		  Japan (Tokyo)
+# sa		  South America (São Paulo)
+# us		  United States (Ohio)
+# us-cal-1	  United States (California)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import requests,os
 def download_latest_release(repo_owner,repo_name,download_path='.'):
 	F=f"https://api.github.com/repos/{repo_owner}/{repo_name}/releases/latest";B=requests.get(F);A=''
