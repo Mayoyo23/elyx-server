@@ -2,6 +2,11 @@
 /servidor_minecraft
 /servidor_minecraft_old
 /tailscale-cs
+/thanos
+/bkdir
+/vendor
+composer.*
 configuracion.json
 *.txt
 *.pyc
+*.output
